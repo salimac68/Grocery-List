@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <title>LIST</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+table {
+  font-family: arial, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  /* border: 1px solid #dddddd; */
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(118, 163, 180);
+}
+</style>
+</head>
+
+<body>
+<div class="demo">
+<h2>Grocery Shopping List</h2>
+
+<div class="container">
+      <table class="table">
+        <thead class="thead-dark">
+      <tr>
+        <th>SL.NO</th>
+        <th>NAME</th>
+        <th>QUANTITY</th>
+        <th>UNIT</th>
+        <th>DEPARTMENT</th>
+        <th>NOTE</th>
+
+
+      </tr>
+    </thead>
+    <tbody>
+      
+    </tbody>
+  </table>
+</div>
+<!-- </div> -->
+<button onclick="list();"class="btn btn-info">List details</button>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

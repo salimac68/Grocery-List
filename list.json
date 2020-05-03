@@ -1,0 +1,95 @@
+[
+        {
+            "slno":1,
+            "name":"Rice",
+            "quantity":"5",
+            "unit":"kg",
+            "department":"Grocery",
+            "note":"Noorjahan"
+
+         },
+         {
+           "slno":2,
+           "name":"Atta",
+           "quantity":"1",
+           "unit":"Kg",
+           "department":"Grocery",
+           "note":"Elite"
+
+         },
+         {
+           "slno":3,
+           "name":"Chilli powder",
+           "quantity":"500",
+           "unit":"Gram",
+           "department":"Grocery",
+           "note":"Eastern"
+
+         },
+         {
+             "slno":4,
+            "name":"Sunflower oil",
+            "quantity":"2",
+            "unit":"Litre",
+            "department":"Grocery",
+            "note":"Shalimar"
+
+        },
+        {
+           "slno":5,
+           "name":"Onion",
+           "quantity":"2",
+           "unit":"Kg",
+           "department":"Produce",
+           "note":"Vegetable"
+
+        },
+        {
+           "slno":6,
+           "name":"Apple",
+           "quantity":"1",
+           "unit":"Kg",
+           "department":"Produce",
+           "note":"Fruit"
+
+        },
+        {
+           "slno":7,
+           "name":"Tomato",
+           "quantity":"1",
+           "unit":"Kg",
+           "department":"Produce",
+           "note":"Vegetable"
+
+        },
+        {
+           "slno":8,
+           "name":"Biscuit",
+           "quantity":"1",
+           "unit":"Pack",
+           "department":"Bakery",
+           "note":"Britannia"
+
+        },
+        {
+           "slno":9,
+           "name":"Curd",
+           "quantity":"1",
+           "unit":"Litre",
+           "department":"Dairy",
+           "note":"Milma"
+
+        },
+        {
+            "slno":10,
+            "name":"Chicken",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Meat",
+            "note":"Fresh"
+ 
+         }
+         
+   
+    ]
+
